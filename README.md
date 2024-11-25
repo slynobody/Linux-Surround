@@ -1,4 +1,4 @@
-# SteamOS-surround-pod
+# SteamOS-surround
 @tmos for Steam-Deck. (use headphones, virtual surround-sound)
 
 > git clone https://github.com/slynobody/SteamOS-surround
