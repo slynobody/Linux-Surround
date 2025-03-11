@@ -1,5 +1,5 @@
 # SteamOS-/Linux: virtual Surround
-Dlby @tmos-Sound for Steam-Deck. (use headphones, virtual 7.1 surround)
+Dlby @tmos-Sound for Steam-Deck / Linux. (use headphones, virtual 7.1 surround)
 
 > git clone https://github.com/slynobody/SteamOS-surround
 > 
