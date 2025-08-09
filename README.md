@@ -1,9 +1,9 @@
-# SteamOS-/Linux: virtual Surround
+# Linux / Steam-Deck: virtual Surround
 Dlby @tmos-Sound for Steam-Deck / Linux. (use headphones, virtual 7.1 surround)
 
-> git clone https://github.com/slynobody/SteamOS-surround
+> git clone https://github.com/slynobody/Linux-Surround
 > 
-> cd SteamOS-surround
+> cd Linux-surround
 >
 > chmod +x ./*.sh
 >
@@ -18,15 +18,15 @@ enjoy.
 # I want to poke around
 open 
 
->/home/deck/.config/pipewire/pipewire.conf.d/virtual-sink.conf
+> ~/.config/pipewire/pipewire.conf.d/virtual-sink.conf
 
 change 
 
-> /home/deck/.config/pipewire/atmos.wav
+> ~/.config/pipewire/atmos.wav
 
 with 
 
-> /home/deck/.config/pipewire/oal_dflt.wav
+> ~/.config/pipewire/oal_dflt.wav
 
 and/or: <a href="https://airtable.com/appayGNkn3nSuXkaz/shruimhjdSakUPg2m/tbloLjoZKWJDnLtTc"/>try other </a>
 
